@@ -38,4 +38,6 @@ The hardest part was designing a conversation flow that felt natural, not script
 
 ## Author
 
-Built by Endurance Alexander. I build AI automation systems using Voiceflow, n8n, Airtable, APIs, and Python. Email me to discuss your automation project.
+Built by Endurance Alexander. I design and build AI automation systems with Voiceflow, n8n, Airtable, APIs, and Python.
+  If you've got an automation project in mind, <a href="mailto:endurancealexander24@gmail.com">email me</a> and let's talk.
+</p>
